@@ -2,7 +2,7 @@ import requests
 from apscheduler.schedulers.blocking import BlockingScheduler
 from datetime import datetime
 
-
+### to view logs on heroku >> https://dashboard.heroku.com/apps/aqueous-crag-15172/logs ####
 
 sched = BlockingScheduler()
 
